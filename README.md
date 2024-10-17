@@ -1,5 +1,3 @@
-# dereferencer
+# Useful Tools
 
-Golang dereferencer that takes in a struct and dereferences the pointers in the nested struct( or reg struct)
-
-Uses reflect package, use
+Useful code that I wrote that would be better not to delete and instead keep around for usecases
